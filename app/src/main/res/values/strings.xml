@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CanWillLogin</string>
+    <string name="username_empty">User Name Should Not Be Empty.</string>
+    <string name="password_empty">Passsword Should Not Be Empty.</string>
+</resources>
